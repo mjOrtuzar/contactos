@@ -1,0 +1,8 @@
+.hide-modal{
+    visibility: hidden;
+}
+
+.show-modal{
+    visibility:visible;
+}
+
